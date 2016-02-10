@@ -7,7 +7,7 @@ subtitle: Site Template
 #
 # Change this to your project's github name
 #
-baseurl: /sesync-template
+#baseurl: /sesync-template
 email: itrequests@sesync.org
 description: "SESYNC Technical Blog"
 copyright: "&copy; National Socio-Environmental Synthesis Center (SESYNC)<br>1 Park Place, Suite 300, Annapolis, MD 21401"

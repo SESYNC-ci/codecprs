@@ -1,5 +1,5 @@
 # Site settings
-title: SESYNC
+title: CodeCPRs
 #
 # Optional subtitle that will show next to your main title
 #
@@ -9,7 +9,7 @@ subtitle: Site Template
 #
 #baseurl: /sesync-template
 email: itrequests@sesync.org
-description: "SESYNC Technical Blog"
+description: "CodeCPRs Site"
 copyright: "&copy; National Socio-Environmental Synthesis Center (SESYNC)<br>1 Park Place, Suite 300, Annapolis, MD 21401"
 # Build settings
 # No need to edit below this

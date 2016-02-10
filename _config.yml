@@ -1,14 +1,14 @@
 # Site settings
-title: CodeCPRs
+title: Breaking the Code
 #
 # Optional subtitle that will show next to your main title
 #
-subtitle: Site Template
+subtitle: Synthesizing Coding Efforts for Social-Ecological Systems (SES) Research
 #
 # Change this to your project's github name
 #
 #baseurl: /sesync-template
-email: itrequests@sesync.org
+email: elicia.ratajczyk@asu.edu
 description: "CodeCPRs Site"
 copyright: "&copy; National Socio-Environmental Synthesis Center (SESYNC)<br>1 Park Place, Suite 300, Annapolis, MD 21401"
 # Build settings

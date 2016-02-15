@@ -24,7 +24,7 @@ Current graduate students and postdocs may apply for participation in the on-sit
 
 Current faculty and/or professional practitioners should not apply for participation in the workshop. Because this workshop is focused on graduate students and postdocs as the emerging generation of researchers in this area, only a select group of up to ten experts will be invited to the workshop to represent the legacy of knowledge relating to each of the existing large-N databases. If you believe that you should be considered for one of these positions, please contact elicia.ratajczyk@asu.edu.
 
-## Schedule for Workshops
+## Flow of Workshops
 
 ![Workshopflow](https://cloud.githubusercontent.com/assets/17146093/13062676/97362c0c-d3fd-11e5-83a5-cce9d6b0a797.png)
 

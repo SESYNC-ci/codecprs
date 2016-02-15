@@ -2,7 +2,7 @@
 title: Workshop Details
 layout: default
 menu: 2
-menutitle: Instructions
+menutitle: Workshop Details
 ---
 # Workshop Details
 
@@ -23,43 +23,6 @@ Current graduate students and postdocs may apply for participation in the on-sit
 *Applicants for the on-site workshop MUST also be willing to be a co-leader in organizing a virtual mini-workshop* at their home university or organization, assuring that you are prepared for fully active participation during the on-site workshop, if selected. 
 
 Current faculty and/or professional practitioners should not apply for participation in the workshop. Because this workshop is focused on graduate students and postdocs as the emerging generation of researchers in this area, only a select group of up to ten experts will be invited to the workshop to represent the legacy of knowledge relating to each of the existing large-N databases. If you believe that you should be considered for one of these positions, please contact elicia.ratajczyk@asu.edu. 
-
-## Style Examples
-
-# H1 Header
-
-## H2 Header
-
-### H3 Header
-
-*Bold*
-
-This is some raw text
-
-## Site Title
-
-Open the _config.yml and edit the title and subtitle fields. They will appear in the upper right of every rendered page.
-
-## Top Menu
-
-Any page that has 'menu' listed in the header will be included in the top menu. Optionally, items may also have a 'menutitle' attribute to use a different name for the menu link. In the case of this page, we want it to show up as Home rather than the default Sample Page title. You can take a look at page1.md and notice it only has the 'menu' option specifying its the first one.
-
-Please note, the actual files for menus can be named anything.
-
-## Editing the sidebar
-
-Edit the markdown file located at _includes/sidebar.md. Below is what that file looks like. You can use the following items in a sidebar
-
-* '#' h1 header
-* '##' h2 header
-* '*' list item
-* links
-
-<pre>
-
-{% include sidebar.md %}
-
-</pre>
 
 ## Customizing the Copyright
 

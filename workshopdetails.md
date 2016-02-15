@@ -25,6 +25,17 @@ Current graduate students and postdocs may apply for participation in the on-sit
 Current faculty and/or professional practitioners should not apply for participation in the workshop. Because this workshop is focused on graduate students and postdocs as the emerging generation of researchers in this area, only a select group of up to ten experts will be invited to the workshop to represent the legacy of knowledge relating to each of the existing large-N databases. If you believe that you should be considered for one of these positions, please contact elicia.ratajczyk@asu.edu.
 
 ## Flow of Workshops
+The online Invitation, Application and Survey will be open from February 15 - March 25, 2016. All applications are due no later than 5pm (EST) on March 25, 2016. Applicants will be notified of thier status by April 15, 2016. 
+
+Those applicants selected for participation in the on-site workshop in Anapolis will be contacted by SESYNC staff for confirmation and coordination of travel arrangements.
+
+### Virtual Mini-Workshops (VMW) ~ left side of Figure 2 (below)
+
+Virtual Mini-Workshops (VMW) will be coordinated between the Principal Investigators and the co-leaders for each location. All VMWs should be scheduled to take place between May 15 - July 1, 2016. 
+
+The teams from each VMW (V-groups) will prepare a 10-15 minute presentation of the results of their workshop that will be presented to all on-site and virtual participants via Skype on Day 2 (July 6, 2016) of the on-site workshop at SESYNC. These results will be combined with the results of the on-site workshop and VMW co-leaders will be contacted following the on-site workshop for voluntary inclusion in Working Groups, Reporting and Publications. 
+
+Following the V-group presentations, all virtual participants may participate in the Panel and Town Hall Discussions along with all of the on-site participants. 
 
 ![Workshopflow](https://cloud.githubusercontent.com/assets/17146093/13062676/97362c0c-d3fd-11e5-83a5-cce9d6b0a797.png)
 

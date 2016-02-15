@@ -22,6 +22,6 @@ The coding and collection of case studies into Large-n databases of the commons 
 
 # Sample Internal Image
 
-![DBMatrix](DBMatrix.png)
+![DBMatrix](https://cloud.githubusercontent.com/assets/17146093/13062621/5179cfde-d3fd-11e5-9cb2-58dcb898eefd.png)
 
 

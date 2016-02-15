@@ -22,5 +22,9 @@ VMW co-leaders may also apply to participate in the on-site workshop but will ne
 Current graduate students and postdocs may apply for participation in the on-site workshop using the on-line application. 
 *Applicants for the on-site workshop MUST also be willing to be a co-leader in organizing a virtual mini-workshop* at their home university or organization, assuring that you are prepared for fully active participation during the on-site workshop, if selected. 
 
-Current faculty and/or professional practitioners should not apply for participation in the workshop. Because this workshop is focused on graduate students and postdocs as the emerging generation of researchers in this area, only a select group of up to ten experts will be invited to the workshop to represent the legacy of knowledge relating to each of the existing large-N databases. If you believe that you should be considered for one of these positions, please contact elicia.ratajczyk@asu.edu. 
+Current faculty and/or professional practitioners should not apply for participation in the workshop. Because this workshop is focused on graduate students and postdocs as the emerging generation of researchers in this area, only a select group of up to ten experts will be invited to the workshop to represent the legacy of knowledge relating to each of the existing large-N databases. If you believe that you should be considered for one of these positions, please contact elicia.ratajczyk@asu.edu.
+
+## Schedule for Workshops
+
+![Workshopflow](https://cloud.githubusercontent.com/assets/17146093/13062676/97362c0c-d3fd-11e5-83a5-cce9d6b0a797.png)
 

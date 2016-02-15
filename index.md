@@ -23,11 +23,15 @@ The National Socio-Environmental Synthesis Center (SESYNC) will host a 3-1/2 day
 better understand how the efforts of diverse research projects might be linked to develop useful 
 knowledge about the sustainability of social-ecological systems. With a strong focus on graduate students, 
 this workshop will: 
- Leverage separate activities and gain an understanding of the current state of the cumulative data 
+
+*Leverage separate activities and gain an understanding of the current state of the cumulative data 
 and data synthesis efforts; 
- Identify key factors and challenges involved in the coding and synthesis of datasets; 
- Facilitate the identification of foundational common elements in the collection and coding of 
+
+*Identify key factors and challenges involved in the coding and synthesis of datasets; 
+
+*Facilitate the identification of foundational common elements in the collection and coding of 
 data; and 
- Establish the goals and parameters necessary for the continuation of working groups which will 
+
+*Establish the goals and parameters necessary for the continuation of working groups which will 
 engage in longer-term collaboration leading to more unified approaches, increased access to data, 
 and practical applications.

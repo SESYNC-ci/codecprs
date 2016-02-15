@@ -11,7 +11,7 @@ Environmental problems abound ranging from small-scale depletion of resources to
 
 The coding and collection of case studies into Large-n databases of the commons have made considerable contributions in this regard by allowing researchers to apply qualitative and quantitative analyses to understand the development and persistence of environmental governance systems.  However, over the years a number of such databases (Fig. 1) have been developed and implemented with their own unique structures and protocols; limiting our ability to compare and generalize across databases and limiting potential synthesis of these data resources.  
 
-The National Socio-Environmental Synthesis Center (SESYNC) will host a 3-1/2 day workshop July 5-8, 2016, aimed at addressing this longstanding gap by bringing together experts and graduate students to better understand how the efforts of diverse research projects might be linked to develop useful knowledge about the sustainability of social-ecological systems. With a strong focus on graduate students, this workshop will: 
+The National Socio-Environmental Synthesis Center (SESYNC) will host a 3-1/2 day graduate student led workshop July 5-8, 2016, aimed at addressing this longstanding gap by bringing together experts and graduate students to better understand how the efforts of diverse research projects might be linked to develop useful knowledge about the sustainability of social-ecological systems. With a strong focus on graduate students, this workshop will: 
 
 *Leverage separate activities and gain an understanding of the current state of the cumulative data and data synthesis efforts; 
 *Identify key factors and challenges involved in the coding and synthesis of datasets; 

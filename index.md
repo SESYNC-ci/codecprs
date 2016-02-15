@@ -20,4 +20,8 @@ The coding and collection of case studies into Large-n databases of the commons 
 
 *Establish the goals and parameters necessary for the continuation of working groups which will engage in longer-term collaboration leading to more unified approaches, increased access to data, and practical applications.
 
+# Sample Internal Image
+
+![DBMatrix](DBMatrix.png)
+
 

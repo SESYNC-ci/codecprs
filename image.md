@@ -6,4 +6,4 @@ menu: 3
 
 # Sample Image
 
-![ACE Token](../ace-token.png)
+![Sample](http://www.sesync.org/sites/default/files/styles/featured_images/public/feature_image/workshop-feature.jpg)

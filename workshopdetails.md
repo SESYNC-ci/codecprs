@@ -29,13 +29,27 @@ The online Invitation, Application and Survey will be open from February 15 - Ma
 
 Those applicants selected for participation in the on-site workshop in Anapolis will be contacted by SESYNC staff for confirmation and coordination of travel arrangements.
 
-### Virtual Mini-Workshops (VMW) ~ left side of Figure 2 (below)
+### Virtual Mini-Workshops (VMW) 
+(left side of Figure 2 below)
 
-Virtual Mini-Workshops (VMW) will be coordinated between the Principal Investigators and the co-leaders for each location. All VMWs should be scheduled to take place between May 15 - July 1, 2016. 
+VMWs will be coordinated between the Principal Investigators and the co-leaders for each location. All VMWs should be scheduled to take place between May 15 - July 1, 2016. 
 
-The teams from each VMW (V-groups) will prepare a 10-15 minute presentation of the results of their workshop that will be presented to all on-site and virtual participants via Skype on Day 2 (July 6, 2016) of the on-site workshop at SESYNC. These results will be combined with the results of the on-site workshop and VMW co-leaders will be contacted following the on-site workshop for voluntary inclusion in Working Groups, Reporting and Publications. 
+The teams from each VMW (V-groups) will prepare a 10-15 minute presentation of the results of their workshop that will be presented to all on-site and virtual participants via Skype on Day 2 (July 6, 2016) of the on-site workshop at SESYNC.  
 
-Following the V-group presentations, all virtual participants may participate in the Panel and Town Hall Discussions along with all of the on-site participants. 
+Following the V-group presentations, all virtual participants may participate in the Panel and Town Hall Discussions along with all of the on-site participants.
+
+VMW results will be combined with the results of the on-site workshop and VMW co-leaders will be contacted following the on-site workshop for voluntary inclusion in Working Groups, Reporting and Publications.
+
+### On-site Workshop at SESYNC - July 5-8, 2016
+(right side of Figure 2 below)
+
+Full Workshop Participants (accepted graduate students or post-docs), will participate in all activities shown in Figure 2 (below). 
+
+The on-site workshop will take place between 8am - 5pm each day, excepting Day 4 (Friday July 8, 2016) which will officially end at noon. Because this is a graduate student focused and graduate student led workshop, Day 1 and Day 4 are focused solely on this group so that they can help to frame the agenda, direction, and results of the workshop. 
+
+Selected expert participants will participate in the workshop on Day 2 and 3 (July 6-7, 2016), and may choose to stay for Day 4 (July 8, 2016) to participate in the formation of Working Groups and planning for future publications. 
+
+Working groups formed as a result of this workshop will coordinate with one another and will have some access to information and file sharing through SESYNC for a limited amount of time following the on-site workshop in order to establish further plans for coordination and collaboration amongst these groups as they proceed beyond the workshop. 
 
 ![Workshopflow](https://cloud.githubusercontent.com/assets/17146093/13062676/97362c0c-d3fd-11e5-83a5-cce9d6b0a797.png)
 

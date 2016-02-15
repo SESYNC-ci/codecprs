@@ -17,6 +17,7 @@ apply qualitative and quantitative analyses to understand the development and pe
 environmental governance systems.  However, over the years a number of such databases (Fig. 1) have 
 been developed and implemented with their own unique structures and protocols; limiting our ability to 
 compare and generalize across databases and limiting potential synthesis of these data resources.  
+
 The National Socio-Environmental Synthesis Center (SESYNC) will host a 3-1/2 day workshop July 5-8, 
 2016, aimed at addressing this longstanding gap by bringing together experts and graduate students to 
 better understand how the efforts of diverse research projects might be linked to develop useful 

@@ -8,9 +8,11 @@ menutitle: Instructions
 
 This jekyll template supports the following features:
 
-•	The on-site workshop will be held July 5-8, 2016, at SESYNC in Annapolis, Maryland, and will meet daily from 8 a.m. – 5 p.m. with a daily break for lunch.
+The on-site workshop will be held July 5-8, 2016, at SESYNC in Annapolis, Maryland, and will meet daily from 8 a.m. – 5 p.m. with a daily break for lunch.
+
   o	The last day, Friday July 8, will be a half-day and the workshop will officially conclude at Noon. 
-•	There will be no fee to attend either the on-site or virtual workshops. Most travel expenses, including airfare, accommodations, and some meals will be provided for on-site participants by SESYNC. 
+
+There will be no fee to attend either the on-site or virtual workshops. Most travel expenses, including airfare, accommodations, and some meals will be provided for on-site participants by SESYNC. 
 •	Virtual 1-day min-workshops will be scheduled in conjunction with the official co-leaders at each virtual host location and announced on the workshop web-site. 
   o	Each potential hosting location must have a co-leader and primary point of contact who will work with the principal investigators to schedule and organize their virtual workshop. 
   o	Only those interested in being a co-leader of a virtual workshop should complete the application, those interested in participating in a virtual mini-workshop should contact the co-leader(s) at their location. Anyone (grad. student, postdoc, faculty, etc.) may apply to be a co-leader of a  virtual mini-workshop. 

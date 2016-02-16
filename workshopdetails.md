@@ -25,7 +25,6 @@ Current graduate students and postdocs may apply for participation in the on-sit
 Current faculty and/or professional practitioners should not apply for participation in the workshop. Because this workshop is focused on graduate students and postdocs as the emerging generation of researchers in this area, only a select group of up to ten experts will be invited to the workshop to represent the legacy of knowledge relating to each of the existing large-N databases. If you believe that you should be considered for one of these positions, please contact elicia.ratajczyk@asu.edu.
 
 ## Flow of Workshops
-![Workshopflow](https://cloud.githubusercontent.com/assets/17146093/13062676/97362c0c-d3fd-11e5-83a5-cce9d6b0a797.png)
 
 The online Invitation, Application and Survey will be open from February 15 - March 25, 2016. All applications are due no later than 5pm (EST) on March 25, 2016. Applicants will be notified of thier status by April 15, 2016. 
 
@@ -53,5 +52,5 @@ Selected expert participants will participate in the workshop on Day 2 and 3 (Ju
 
 Working groups formed as a result of this workshop will coordinate with one another and will have some access to information and file sharing through SESYNC for a limited amount of time following the on-site workshop in order to establish further plans for coordination and collaboration amongst these groups as they proceed beyond the workshop. 
 
-
+![Workshopflow](https://cloud.githubusercontent.com/assets/17146093/13062676/97362c0c-d3fd-11e5-83a5-cce9d6b0a797.png)
 

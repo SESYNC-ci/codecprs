@@ -11,8 +11,8 @@ on-line application.
 # Apply Here!
 Applications may be submitted through 5pm (EST) on March 25, 2016. Selected applicants will be notified by mid-April.
 
-* [Link](https://docs.google.com/a/asu.edu/forms/d/1Vfxjbp_2CpWx9EdMbsssbNbrIbjL91y8_5JEmHotSOs/viewform?c=0&w=1&usp=mail_form_link)
-* [Link list item](http://www.sesync.org)
+* [Application](https://docs.google.com/a/asu.edu/forms/d/1Vfxjbp_2CpWx9EdMbsssbNbrIbjL91y8_5JEmHotSOs/viewform?c=0&w=1&usp=mail_form_link)
+* [SESYNC](http://www.sesync.org)
 
 
 

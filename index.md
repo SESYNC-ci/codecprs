@@ -1,5 +1,5 @@
 ---
-title: Sample Page
+title: Home page
 layout: default
 menu: 1
 menutitle: Home

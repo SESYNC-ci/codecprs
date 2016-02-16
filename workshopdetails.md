@@ -1,10 +1,10 @@
 ---
-title: Workshop Details
+title: Details of the Workshops
 layout: default
 menu: 2
-menutitle: Workshop Details
+menutitle: Details of the Workshops
 ---
-# Workshop Details
+# Details of the Workshops
 
 ## Dates
 The on-site workshop will be held July 5-8, 2016, at SESYNC in Annapolis, Maryland, and will meet daily from 8 a.m. – 5 p.m. with a daily break for lunch. The last day, Friday July 8, will be a half-day and the workshop will officially conclude at Noon. 

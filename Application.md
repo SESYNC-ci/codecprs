@@ -30,6 +30,4 @@ The principal investigators for Breaking the Code will provide a basic agenda, d
 
 For any questions, please email Elicia Ratajczyk at elicia.ratajczyk@asu.edu. 
 
-Complete the application:
-
-* [Application](https://docs.google.com/a/asu.edu/forms/d/1Vfxjbp_2CpWx9EdMbsssbNbrIbjL91y8_5JEmHotSOs/viewform?c=0&w=1&usp=mail_form_link)
+Complete the [Application here](https://docs.google.com/a/asu.edu/forms/d/1Vfxjbp_2CpWx9EdMbsssbNbrIbjL91y8_5JEmHotSOs/viewform?c=0&w=1&usp=mail_form_link)

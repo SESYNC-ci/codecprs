@@ -1,4 +1,4 @@
-# Viritual Mini-Workshops
+# Virtual Mini-Workshops
 
 In addition to the on-site workshop at SESYNC, a number of 1-day virtual mini-workshops will be planned at hosting universities
 around the world. These virtual workshops will support the same goals as the on-site workshop and will connect with the on-site

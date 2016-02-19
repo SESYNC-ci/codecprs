@@ -9,7 +9,7 @@ menutitle: Details of the Workshops
 ## Dates
 The on-site workshop will be held July 5-8, 2016, at SESYNC in Annapolis, Maryland, and will meet daily from 8 a.m. – 5 p.m. with a daily break for lunch. The last day, Friday July 8, will be a half-day and the workshop will officially conclude at Noon. 
 
-Virtual 1-day min-workshops will be scheduled in conjunction with the official co-leaders at each virtual host location and announced on the workshop web-site. Each potential hosting location must have a co-leader and primary point of contact who will work with the principal investigators to schedule and organize their virtual workshop. Only those interested in being a co-leader of a virtual workshop should complete the application, those interested in participating in a virtual mini-workshop should contact the co-leader(s) at their location. Anyone (grad. student, postdoc, faculty, etc.) may apply to be a co-leader of a  virtual mini-workshop (VMW).
+1-day virtual min-workshops (VMW) will be scheduled in conjunction with the official co-leaders at each virtual host location and announced on the workshop web-site. Each potential hosting location must have a co-leader and primary point of contact who will work with the principal investigators to schedule and organize their virtual workshop. Only those interested in being a co-leader of a virtual workshop should complete the application, those interested in participating in a virtual mini-workshop should contact the co-leader(s) at their location. A list of scheduled VMWs and co-leader contact information will be included on this website. Anyone (grad. student, postdoc, faculty, etc.) may apply to be a co-leader of a  virtual mini-workshop (VMW).
 
 ## Fees and Expenses
 
@@ -28,7 +28,7 @@ Current faculty and/or professional practitioners should not apply for participa
 
 The online Invitation, Application and Survey will be open from February 15 - March 25, 2016. All applications are due no later than 5pm (EST) on March 25, 2016. Applicants will be notified of thier status by April 15, 2016. 
 
-Those applicants selected for participation in the on-site workshop in Anapolis will be contacted by SESYNC staff for confirmation and coordination of travel arrangements.
+Those applicants selected for participation in the on-site workshop in Annapolis will be contacted by SESYNC staff for confirmation and coordination of travel arrangements.
 
 ### Virtual Mini-Workshops (VMW) 
 (left side of Figure 2 below)
@@ -37,7 +37,7 @@ VMWs will be coordinated between the Principal Investigators and the co-leaders 
 
 The teams from each VMW (V-groups) will prepare a 10-15 minute presentation of the results of their workshop that will be presented to all on-site and virtual participants via Skype on Day 2 (July 6, 2016) of the on-site workshop at SESYNC.  
 
-Following the V-group presentations, all virtual participants may participate in the Panel and Town Hall Discussions along with all of the on-site participants.
+Following the V-group presentations, all virtual participants may also participate in the Panel and Town Hall Discussions along with all of the on-site participants.
 
 VMW results will be combined with the results of the on-site workshop and VMW co-leaders will be contacted following the on-site workshop for voluntary inclusion in Working Groups, Reporting and Publications.
 

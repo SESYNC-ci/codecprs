@@ -14,7 +14,7 @@ Current graduate students and postdocs may apply for participation in the 3 1/2-
 
 If applying for full participation in the 3 1/2-day on-site workshop, please complete this application and email your CV to elicia.ratajczyk@asu.edu. 
 
-The principal investigators for Breaking the Code will provide a basic agenda, digital materials (e.g. powerpoint presentations, etc.) and virtual assistance to all co-leaders of the 1-day VMWs. We recommend that each location have at least two co-leaders. Co-leaders are responsible for:
+The principal investigators for Breaking the Code will provide a basic agenda, digital materials (e.g. powerpoint presentations, etc.) and virtual assistance to all co-leaders of the 1-day VMWs but we do encourage creativity and will support groups in formulating their own activities and discussion points. We recommend that each location have at least two co-leaders. Co-leaders are responsible for:
 
 ●	Selecting a date for the event (between May 15 – July 1);
 
@@ -24,7 +24,7 @@ The principal investigators for Breaking the Code will provide a basic agenda, d
 
 ●	Setting up for and facilitating (leading) the activities during the VMW;
 
-●	Preparing and presenting the results of their VMW to the Workshop Participants on July 6, 2016 from 1-2 p.m. (EST). 
+●	Coordinating the preparation and presentation of the results of their VMW to the Workshop Participants on July 6, 2016 from 1-2 p.m. (EST). 
 
 ●	Facilitating virtual participation in the Panel and Town Hall discussions on July 6, 2016, 2-4 p.m. (EST). 
 

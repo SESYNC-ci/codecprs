@@ -7,7 +7,7 @@ menutitle: Details of the Workshops
 # Details of the Workshops
 
 ## Dates
-The on-site workshop will be held July 5-8, 2016, at SESYNC in Annapolis, Maryland, and will meet daily from 8 a.m. – 5 p.m. with a daily break for lunch. The last day, Friday July 8, will be a half-day and the workshop will officially conclude at Noon. 
+The on-site workshop will be held July 5-8, 2016, at SESYNC in Annapolis, Maryland, and will meet daily from 8:30 a.m. – 5 p.m. with a daily break for lunch. The last day, Friday July 8, will be a half-day and the workshop will officially conclude at 12:30pm. 
 
 1-day virtual min-workshops (VMW) will be scheduled in conjunction with the official co-leaders at each virtual host location and announced on the workshop web-site. Each potential hosting location must have a co-leader and primary point of contact who will work with the principal investigators to schedule and organize their virtual workshop. Only those interested in being a co-leader of a virtual workshop should complete the application, those interested in participating in a virtual mini-workshop should contact the co-leader(s) at their location. A list of scheduled VMWs and co-leader contact information will be included on this website. Anyone (grad. student, postdoc, faculty, etc.) may apply to be a co-leader of a  virtual mini-workshop (VMW).
 

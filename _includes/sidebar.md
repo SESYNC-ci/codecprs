@@ -1,6 +1,6 @@
 # News & Updates
 
-We have had an exciting turn-out so far during the application process and good mix of current graduate students, doctoral candidates, and post-docs have applied from nearly 20 different universities and institutes in 5 different countries on 3 continents!!! The application will be closing today so hurry up and apply if you are interested in joining this exciting group of emerging researchers! Preliminary planning for the 1-day virtual mini-workshops have begun so be sure to check back here in a few weeks tfor a list of dates and locations. 
+We have had an exciting turn-out so far during the application process and good mix of current graduate students, doctoral candidates, and post-docs have applied from nearly 20 different universities and institutes in 6 different countries on 3 continents!!! The application will be closing today so hurry up and apply if you are interested in joining this exciting group of emerging researchers! Preliminary planning for the 1-day virtual mini-workshops have begun so be sure to check back here in a few weeks tfor a list of dates and locations. 
 
 # Virtual Mini-Workshops
 

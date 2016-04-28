@@ -1,7 +1,9 @@
 # News & Updates
 April 28, 2016
 We now have several virtual mini-workshop self-organizing at universities in the U.S., Canada, and Europe! The first two to be scheduled are as follows (more updates will be posted here as they are scheduled): 
+
 * Arizona State University & the University of Arizona Collaborative Coding Workshop: Tempe, Arizona, Friday, April 29, 2016, 8:30am - 5pm. Contact: elicia.ratajczyk@asu.edu. 
+
 * University of Bern Breaking the Code Virtual Mini-workshop: Bern, Switzerland, Tuesday June 7, 2016, 9am - 12pm. Contact: christoph.oberlack@cde.unibe.ch. 
 
 April 2, 2016

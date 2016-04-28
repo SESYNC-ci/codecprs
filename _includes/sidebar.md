@@ -1,8 +1,8 @@
 # News & Updates
 April 28, 2016
 We now have several virtual mini-workshop self-organizing at universities in the U.S., Canada, and Europe! The first two to be scheduled are as follows (more updates will be posted here as they are scheduled): 
-* Arizona State University & the University of Arizona Collaborative Coding Workshop: Tempe, Arizona, Friday, April 29, 2016, 8:30am - 5pm. Contact elicia.ratajczyk@asu.edu. 
-* University of Bern Breaking the Code Virtual Mini-workshop: Bern, Switzerland, Tuesday June 7, 2016, 9am - 12pm. 
+* Arizona State University & the University of Arizona Collaborative Coding Workshop: Tempe, Arizona, Friday, April 29, 2016, 8:30am - 5pm. Contact: elicia.ratajczyk@asu.edu. 
+* University of Bern Breaking the Code Virtual Mini-workshop: Bern, Switzerland, Tuesday June 7, 2016, 9am - 12pm. Contact: christoph.oberlack@cde.unibe.ch. 
 
 April 2, 2016
 We have had an exciting turn-out so far during the application process and good mix of current graduate students, doctoral candidates, and post-docs have applied from nearly 20 different universities and institutes in 6 different countries on 3 continents!!! The application will be closing today so hurry up and apply if you are interested in joining this exciting group of emerging researchers! Preliminary planning for the 1-day virtual mini-workshops have begun so be sure to check back here in a few weeks tfor a list of dates and locations. 
